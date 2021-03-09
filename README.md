@@ -26,6 +26,9 @@ Is this my site ?
 [Link](url) and ![Image](src)
 ```
 ```markdown
+## this is markdown style 
+# this is markdown header
+
 # An example of markdown style
 this is markdown example
 program to display hello world in c 
